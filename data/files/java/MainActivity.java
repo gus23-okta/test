@@ -13,7 +13,6 @@ import android.text.*;
 import android.text.style.*;
 import android.util.*;
 import android.view.*;
-import android.view.View.*;
 import android.widget.*;
 import androidx.annotation.*;
 import androidx.appcompat.app.AppCompatActivity;
